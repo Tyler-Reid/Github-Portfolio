@@ -26,9 +26,9 @@ export default {
 				'primary-hover-light': '#FFE071',
 
 				// Dark mode colors
-				'dark-theme': '#0C151D',
-				'primary-dark': '#FFE071',
-				'primary-hover-dark': '#FBD144',
+				'dark-theme': '#E9EBEC1D',
+				'primary-dark': '#FBD144',
+				'primary-hover-dark': '#FFE071',
 
 				// Neutrals
 				'n200': '#d7d9da',
