@@ -13,6 +13,7 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
     site: 'https://tyler-reid.github.io/Github-Portfolio/',
+    base: '/Github-Portfolio',
     integrations: [mdx(), react(), tailwind({
         applyBaseStyles: false,
     }), icon(), sitemap()],
