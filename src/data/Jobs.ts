@@ -44,7 +44,7 @@ interface WorkExperience {
  */
 const workExperience:WorkExperience[] = [
     {
-        title: "Frontend Developer",
+        title: "Front Developer",
         startDate: "2020-03-10",
         company: "Google Inc",
         location: "United States",
