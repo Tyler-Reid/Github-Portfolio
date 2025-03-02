@@ -27,8 +27,8 @@ export default {
 
 				// Dark mode colors
 				'dark-theme': '#E9EBEC1D',
-				'primary-dark': '#FBD144',
-				'primary-hover-dark': '#FFE071',
+				'primary-dark': '#d7d9da',
+				'primary-hover-dark': '##222222',
 
 				// Neutrals
 				'n200': '#d7d9da',
