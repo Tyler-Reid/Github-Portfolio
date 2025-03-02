@@ -2,4 +2,4 @@ title: Tyler Hislop
 # logo:
 # description: text below image
 # show_downloads: true
-remote_theme: hyde
+remote_theme: poole/hyde
